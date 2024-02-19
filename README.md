@@ -6,3 +6,5 @@ CSV-AI offers the following key features:
  - Interact: Easily navigate through your CSV files and interact with the data.
  - Summarize: Generate descriptive summaries for your CSV data.
  - Analyze: Perform advanced data analysis on your CSV files, including filtering, sorting, and visualizing the data.
+
+![](https://github.com/moustafa100/CSV-AI-/blob/main/Home.PNG)
